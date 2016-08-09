@@ -1,0 +1,4 @@
+{
+    "names": [{"mac":"70:48:0F:B5:82:16", "name":"BEN IPAD"}, {"mac":"D0:22:BE:02:4D:F0", "name":"someones android"}],
+    "excludes": ["00:0D:4B:EF:AB:19", "18:B4:30:08:62:A9", "30:8C:FB:4F:7E:3D"]
+}
